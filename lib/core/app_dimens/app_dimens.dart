@@ -1,0 +1,142 @@
+/// `AppDimen` class provides a centralized repository of dimension values
+/// such as margins, heights, paddings, font sizes, and widths, ensuring
+/// consistent spacing and sizing across the application.
+
+abstract class AppDimen {
+  static double margin3 = 3.0;
+  static double margin4 = 4.0;
+  static double margin5 = 5;
+  static double margin8 = 8.0;
+  static double margin10 = 10;
+  static double margin15 = 15;
+  static double margin20 = 20;
+  static double margin30 = 30;
+  static double margin50 = 50;
+  static double margin100 = 100;
+  static double margin235 = 235;
+  static double margin150 = 150;
+
+  static double height2 = 2;
+  static double height4 = 4.0;
+  static double height5 = 5.0;
+  static double height6 = 6.0;
+  static double height8 = 8.0;
+  static double height9 = 9.0;
+  static double height10 = 10;
+  static double height15 = 15;
+  static double height18 = 18;
+  static double height20 = 20;
+  static double height26 = 26;
+  static double height28 = 28;
+  static double height30 = 30;
+  static double height32 = 32;
+  static double height35 = 35;
+  static double height45 = 45;
+  static double height60 = 60;
+  static double height55 = 55;
+  static double height70 = 70;
+  static double height40 = 40;
+  static double height50 = 50;
+  static double height80 = 80;
+  static double height100 = 100;
+  static double height150 = 150;
+  static double height200 = 200;
+  static double height250 = 250;
+  static double height280 = 280;
+  static double height300 = 300;
+  static double height330 = 330;
+  static double height350 = 350;
+  static double height400 = 400;
+
+  static double circular2 = 2.0;
+  static double circular7 = 7.0;
+  static double circular5 = 5.0;
+  static double circular8 = 8.0;
+  static double circular10 = 10.0;
+  static double circular11 = 11.0;
+  static double circular12 = 12.0;
+  static double circular12_5 = 12.5;
+  static double circular13 = 13.0;
+  static double circular15 = 15.0;
+  static double circular16 = 16.0;
+  static double circular17 = 17.0;
+  static double circular18 = 18.0;
+  static double circular18_5 = 18.5;
+  static double circular19 = 19.0;
+  static double circular20 = 20.0;
+  static double circular24 = 24.0;
+  static double circular25 = 25.0;
+  static double circular30 = 30.0;
+  static double circular35 = 35.0;
+  static double circular50 = 50.0;
+  static double circular60 = 60.0;
+  static double circular80 = 80.0;
+  static double circular100 = 100.0;
+
+  static double padding0 = 0.0;
+  static double padding1 = 1.0;
+  static double padding2 = 2.0;
+  static double padding3 = 3.0;
+  static double padding5 = 5.0;
+  static double padding6 = 6.0;
+  static double padding8 = 8.0;
+  static double padding10 = 10.0;
+  static double padding12 = 12.0;
+  static double padding14 = 14.0;
+  static double padding15 = 15.0;
+  static double padding16 = 16.0;
+  static double padding19 = 19.0;
+  static double padding20 = 20.0;
+  static double padding24 = 24.0;
+  static double padding25 = 25.0;
+  static double padding28 = 28.0;
+  static double padding35 = 35.0;
+  static double padding40 = 40.0;
+  static double padding45 = 45.0;
+  static double padding60 = 60.0;
+  static double padding70 = 70.0;
+
+  static double fontSize9 = 9.0;
+  static double fontSize10 = 10.0;
+  static double fontSize12 = 12.0;
+  static double fontSize13 = 13.0;
+  static double fontSize11 = 11.0;
+  static double fontSize14 = 14.0;
+  static double fontSize15 = 15.0;
+  static double fontSize16 = 16.0;
+  static double fontSize19 = 19.0;
+  static double fontSize18 = 18.0;
+  static double fontSize20 = 20.0;
+  static double fontSize22 = 22.0;
+  static double fontSize24 = 24.0;
+  static double fontSize30 = 30.0;
+  static double fontSize32 = 32.0;
+  static double fontSize35 = 35.0;
+  static double fontSize38 = 38.0;
+
+  static double width0_79 = 0.79;
+  static double width0_39 = 0.39;
+  static double width1 = 1.0;
+  static double width1_5 = 1.5;
+  static double width2 = 2.0;
+  static double width2_5 = 2.5;
+  static double width4 = 4.0;
+  static double width5 = 5.0;
+  static double width9 = 9.0;
+  static double width10 = 10.0;
+  static double width15 = 15.0;
+  static double width18 = 18.0;
+  static double width20 = 20.0;
+  static double width22 = 22.0;
+  static double width25 = 25.0;
+  static double width26 = 26.0;
+  static double width35 = 35.0;
+  static double width45 = 45.0;
+  static double width50 = 50.0;
+  static double width80 = 80.0;
+  static double width400 = 400.0;
+
+  static var margin80 = 80.0;
+
+  static var height0 = 0.5;
+}
